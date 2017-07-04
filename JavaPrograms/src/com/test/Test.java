@@ -9,6 +9,7 @@ public class Test {
 		String b = "/login";
 		String URL = a+b;
 		System.out.println(URL);
+		System.out.println("Test");
 
 	}
 
